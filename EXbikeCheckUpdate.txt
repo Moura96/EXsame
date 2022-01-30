@@ -1,0 +1,6 @@
+{
+    "version": 1.02,
+    "area": "All",
+    "url":"https://github.com/Moura96/BRsame/raw/main/1.02-br-app-debug.apk",
+    "files":0
+}
